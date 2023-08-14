@@ -234,6 +234,12 @@ img{
 	.sign a{
 		font-size: 12px;
 	}
+	 .icon .logo img{
+     width: 230px;
+     height: 170px;
+     position: fixed;
+     z-index: 9;
+ }
 }
 /* /6 */
 
