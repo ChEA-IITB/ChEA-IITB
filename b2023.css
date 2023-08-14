@@ -399,6 +399,12 @@ ul li a:hover{
     font-size: 100px;
     padding-top: 30px;
     }
+      .icon .logo img{
+     width: 230px;
+     height: 170px;
+     position: fixed;
+     z-index: 9;
+ }
     ul{
     gap: 0px;
     }
