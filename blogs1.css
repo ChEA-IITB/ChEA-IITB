@@ -529,9 +529,10 @@ events-box .ib{
     }
     .events h2 {
     margin-bottom: 80px;
-    margin-left: 268px;
+    margin-left: 121px;
     font-size: 81px;
-    margin-top: 3rem;
+    margin-top: 4rem;
+         width: 700px;
     }
     .event-container .events-box {
         width: 1000px;
