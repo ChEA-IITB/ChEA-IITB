@@ -750,7 +750,7 @@ ul li a:hover{
         position: fixed;
         left: -100%;
         top: 70px;
-        margin-left: 200px;
+        margin-left: -20px;
         gap: 0;
         flex-direction: column;
         background:linear-gradient(to left, rgba(0,0,0,0.8)100% ,rgba(0,0,0,0.9)100%);
