@@ -821,7 +821,7 @@ ul li a:hover{
     }
     .content .par {
     width: 1000px;
-    margin-left: -10px;
+    margin-left: 10px;
     line-height: 1.1em;
     font-size: 50px;
     }
