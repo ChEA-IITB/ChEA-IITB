@@ -872,6 +872,29 @@ ul li a:hover{
     font-size: 47px;
     margin-left: 277px;
     }
+	#preloader{
+    background-color: #000 ;
+    /* width:488px; */
+    /* height:488px; */
+    background-size: 100%;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
+  #preloader img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: auto;
+    /* align-items: center; */
+    /* position: absolute; */
+    /* left: 1000; */
+    width: 50%;
+    height: 80%;
+  }
 }
 
 
